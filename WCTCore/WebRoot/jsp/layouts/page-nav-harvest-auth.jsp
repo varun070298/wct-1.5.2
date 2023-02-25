@@ -1,0 +1,1 @@
+<%@ page import="org.webcurator.ui.common.Constants" %><a href="<%=Constants.CNTRL_SEARCH_SITE%>" accesskey="3" onMouseOver="rollOn('authorisations')" onMouseOut="rollOff('authorisations')"><img src="images/harvest-authorisations-off.gif" alt="Harvest Authorisations" width="133" height="38" border="0" name="authorisations" /></a>
